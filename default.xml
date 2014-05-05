@@ -471,7 +471,13 @@
   <!-- My added projects for kltespr -->
   <project path="device/samsung/klte" name="nvan7891pp/android_device_samsung_klte" remote="github" revision="cm-11.0" />
   <project path="kernel/samsung/klte" name="sleshepic/SM-G900P_kernel" remote="github" revision="master" />
-  <project path="vendor/samsung/klte" name="nvan7891pp/android_vendor_samsung_klte" remote="github" revision="cm-11.0" />
+  <project path="vendor/samsung/klte" name="garwwynn/android_vendor_samsung_klte" remote="github" revision="cm-11.0" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="stable/cm-11.0" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="stable/cm-11.0" />
+  <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="github" revision="stable/cm-11.0" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="stable/cm-11.0" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="github" revision="stable/cm-11.0" />
+  <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="github" revision="stable/cm-11.0" />
   <project path="my_scripts" name="nvan7891pp/scripts" revision="master" />
   <project path="linaro" name="Christopher83/linaro_toolchains_2014" remote="github" revision="2014.04" />
 </manifest>
