@@ -16,11 +16,11 @@
            sync-c="true"
            sync-j="4" />
 
-  <project name="ChameleonOS/android_build" path="build" groups="pdk">
+  <project name="nvan7891pp/android_build" path="build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="ChameleonOS/android" />
+  <project path="android" name="nvan7891pp/android-CoS" />
 
   <project path="abi/cpp" name="ChameleonOS/android_abi_cpp" groups="pdk" />
   <project path="art" name="ChameleonOS/android_art" />
