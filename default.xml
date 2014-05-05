@@ -467,4 +467,11 @@
   <!-- Use Koush's open Superuser -->
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
+  
+  <!-- My added projects for kltespr -->
+  <project path="device/samsung/klte" name="nvan7891pp/android_device_samsung_klte" remote="github" revision="cm-11.0" />
+  <project path="kernel/samsung/klte" name="sleshepic/SM-G900P_kernel" remote="github" revision="master" />
+  <project path="vendor/samsung/klte" name="nvan7891pp/android_vendor_samsung_klte" remote="github" revision="cm-11.0" />
+  <project path="my_scripts" name="nvan7891pp/scripts" revision="master" />
+  <project path="linaro" name="Christopher83/linaro_toolchains_2014" remote="github" revision="2014.04" />
 </manifest>
