@@ -479,5 +479,5 @@
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="github" revision="stable/cm-11.0" />
   <project path="my_scripts" name="nvan7891pp/scripts" revision="master" />
   <project path="prebuilt/linux-x86/toolchain" name="Christopher83/linaro_toolchains_2014" remote="github" revision="2014.04" />
-  <project path="proprietary/vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="kitkat" />
+  <project path="proprietary/vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-11.0" />
 </manifest>
